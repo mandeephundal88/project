@@ -13,7 +13,7 @@ include 'connection.php';
 $connection = connect();
 $username = $password = "";
 $username_err = $password_err = $successmsg= "";
- 
+ //
 ?>
 <?php
 
